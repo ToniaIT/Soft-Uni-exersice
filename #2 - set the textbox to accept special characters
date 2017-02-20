@@ -1,3 +1,4 @@
 test command
 solve bug #2
 #1 - set the tex box to accept unlimited string.
+#2 - set the textbox to accept special characters.
